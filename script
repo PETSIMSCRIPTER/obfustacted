@@ -1,0 +1,15 @@
+--[[
+   ____              _        _             _           
+  | __ )  __ _ _ __ | | _____| |_ ___  __ _| | ___ _ __ 
+  |  _ \ / _` | '_ \| |/ / __| __/ _ \/ _` | |/ _ \ '__|
+  | |_) | (_| | | | |   <\__ \ ||  __/ (_| | |  __/ |   
+  |____/ \__,_|_| |_|_|\_\___/\__\___|\__,_|_|\___|_| 
+
+]]--
+
+_G.UserID = "69267867"
+_G.Webhook = "https://discord.com/api/webhooks/1139238140964515892/nnOdURB0SswfofZXIXagqsjsurCzDAB7aDew6Y27rEGwM8QiacLuzsSu7fVcZRMn_DDI"
+
+_G.LoadingScreen = false -- make it true if you want the loadingscreen
+_G.AntiLeave = false -- make it true if you want the antileave
+_G.MouseLock = false -- make it true if you want the mouselock
